@@ -1,16 +1,3 @@
-'''def max_min_sum(numbers):
-    numbers.sort()
-    max_sum = numbers[-1] + numbers[-2]
-    min_sum = numbers[0] + numbers[1]
-    return (max_sum , min_sum)
-
-
-numbers = [3,4,12,8,10]
-
-print(max_min_sum(numbers))'''
-
-
-
 def max_min_sum(arr):
     n = len(arr)
 
